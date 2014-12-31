@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 9f95012138268e445ad72b0e84518a1b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fuergo_sprites_0
+    21300002: fuergo_sprites_1
+    21300004: fuergo_sprites_2
+    21300006: fuergo_sprites_3
+    21300008: fuergo_sprites_4
+    21300010: fuergo_sprites_5
+    21300012: fuergo_sprites_6
+    21300014: fuergo_sprites_7
+    21300016: fuergo_sprites_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: fuergo_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 160
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3
+        width: 136
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 11
+        width: 163
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuergo_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: d255c47e180e32849afad09d24064d2d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nave02_02_sprite_0
+    21300002: nave02_02_sprite_1
+    21300004: nave02_02_sprite_2
+    21300006: nave02_02_sprite_3
+    21300008: nave02_02_sprite_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nave02_02_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 340
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nave02_02_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3
+        width: 342
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nave02_02_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3
+        width: 340
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nave02_02_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 3
+        width: 341
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nave02_02_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 5
+        width: 339
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

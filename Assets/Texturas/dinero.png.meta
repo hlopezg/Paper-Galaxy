@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 66cd6a46fa714344da9d0dab94118611
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dinero
+    21300002: dinero_0
+    21300004: dinero_1
+    21300006: dinero_2
+    21300008: dinero_3
+    21300010: dinero_4
+    21300012: dinero_5
+    21300014: dinero_6
+    21300016: dinero_7
+    21300018: dinero_8
+    21300020: dinero_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dinero_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 30
+        width: 252
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dinero_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 30
+        width: 244
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dinero_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 18
+        width: 251
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dinero_3
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 24
+        width: 246
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dinero_4
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 28
+        width: 238
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dinero_5
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 22
+        width: 252
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dinero_6
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 20
+        width: 278
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
